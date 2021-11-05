@@ -96,3 +96,17 @@
    \prevdepth=\tpd}
 
    
+\newcommand{\subtitulo}[1]{\NoCaseChange{\textnormal{\break\Large\itshape#1}}}
+\newcommand{\autorcapitulo}[1]{\hfill
+  \begin{minipage}{.6\textwidth}
+  \begin{flushright}{\itshape #1}\end{flushright}
+  \end{minipage}
+\bigskip\par}
+
+\newcommand\tocquebratitautor{\hfill\break\smaller[2]}
+
+\newcommand{\chapterspecial}[3]{%
+  \chapter[#1\ifx#3\relax\else\emph{\tocquebratitautor{} #3}\fi]%
+      {#1\ifx#2\relax\else\subtitulo{#2}\fi}%
+  \ifx#3\relax\else\autorcapitulo{#3}\fi
+\markboth{#1}{#3}}
