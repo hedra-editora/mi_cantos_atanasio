@@ -15,8 +15,9 @@ Valério Verá Gonçalves
 \textsc{izaque joão}
 \end{flushright}
 
-\noindent{}\textls[-10]{Os Kaiowá, junto com os Guarani, são hoje o segundo maior povo indígena
-no país, com cerca de 50 mil pessoas. E habitam, em sua maioria, o sul
+\noindent{}\textls[-10]{Os Kaiowá, junto com os Guarani, são hoje o
+segundo maior povo indígena
+no país, com cerca de 50 mil pessoas. Habitantes, em sua maioria, do sul
 de Mato Grosso do Sul e regiões do Paraguai, na fronteira com o Brasil.
 Historicamente, tratavam-se de dois grupos distintos, falantes de duas
 variantes da língua guarani --- o kaiowá e o ñandeva. Ao longo da
@@ -25,16 +26,21 @@ sul do antigo estado de Mato Grosso. Hoje, conectadas por laços de
 vizinhança e casamento, são chamadas nos documentos oficiais de
 Guarani-Kaiowá, mas localmente preferem se autodenominar Guarani e
 Kaiowá, ressaltando suas particularidades. Os Kaiowá são conhecidos no
-Paraguai como Paῖ Tavyterã, e os Guarani, como Ava Katu Ete.}\looseness=-1
+Paraguai como Paῖ Tavyterã, e os Guarani, como Ava Katu
+Ete.}\looseness=-1
 
-\textls[-15]{O que se conhece hoje como o estado do Mato Grosso do Sul corresponde
+\textls[-15]{O que se conhece hoje como o estado do Mato Grosso do Sul
+corresponde
 parcialmente à província da colonização espanhola conhecida como Itatim.
-Durante o período colonial, entre os séculos \textsc{xvi} e \textsc{xvii}, os antigos
+Durante o período colonial, entre os séculos \textsc{xvi} e
+\textsc{xvii}, os antigos
 Guarani do Itatim fugiram do assédio dos colonos espanhóis, buscando
 refúgio em missões jesuítas. Foram também atacados ao longo das décadas
-de 1630 e 1640 pelos bandeirantes paulistas, que levaram milhares de indígenas como cativos para São Paulo. Os grupos que conseguiram escapar
+de 1630 e 1640 pelos bandeirantes paulistas, que levaram milhares de
+indígenas como cativos para São Paulo. Os grupos que conseguiram escapar
 provavelmente buscaram as densas matas do atual sul de Mato Grosso do
-Sul para refugiar-se até o século \textsc{xix}, quando viajantes voltaram a
+Sul para se refugiar até o século \textsc{xix}, quando viajantes
+voltaram a
 travar contato com essas populações. Após a Guerra da Tríplice Aliança,
 ou Guerra do Paraguai (1864--70), que também atingiu diretamente esse
 território, todo o atual sul do estado foi cedido para a exploração da
@@ -42,16 +48,19 @@ erva-mate nativa, promovida pela empresa Matte Larangeiras. Os indígenas
 foram massivamente recrutados como trabalhadores nessa atividade
 extrativista.}\looseness=-1
 
-\textls[-20]{Entre 1917 e 1928, o Serviço de Proteção ao Índio (\textsc{spi}) criou oito
+\textls[-20]{Entre 1917 e 1928, o Serviço de Proteção ao Índio
+(\textsc{spi}) criou oito
 reservas destinadas aos Guarani e Kaiowá. Nas décadas seguintes, a
 colonização do sul de Mato Grosso do Sul avançou com apoio oficial até
 que, nos anos 1970, expandiram-se na região as lavouras de soja e cana.
-Milhares de indígenas foram expulsos das áreas que originalmente ocupavam
+Milhares de indígenas foram expulsos das áreas que originalmente
+ocupavam
 para serem confinados nas antigas reservas, que logo se tornaram áreas
 superlotadas, pobres e violentas.}\looseness=-1
 
 Ao mesmo tempo, emergiu nas comunidades o movimento de luta pela
-recuperação das terras tradicionais, chamado de Aty Guasu (\textit{grande
+recuperação das terras tradicionais, chamado de Aty Guasu
+(\textit{grande
 reunião}). Atanásio Teixeira é conhecido em Mato Grosso do Sul como
 fundador e principal remanescente vivo entre os xamãs que impulsionaram
 esse movimento, atualizando a reflexão kaiowá e guarani sobre o tema da
@@ -61,35 +70,49 @@ cantos xamânicos. É o que prega Ava Ñomoandyja.
 
 \section{O que é um «guahu»?}
 
-\textls[10]{Os \textit{guahu} são um dos diferentes tipos de \textit{cantos-rezas-danças} dos
-Kaiowá e Guarani, que podemos traduzir como ``cantos míticos''. Isso porque são, via de regra, associados a
+\textls[10]{Os \textit{guahu} são um dos diferentes tipos de
+\textit{cantos-rezas-danças} dos
+Kaiowá e Guarani, que podemos traduzir como ``cantos míticos''. Isso
+porque são, via de regra, associados a
 narrativas a respeito do tempo da origem dos seres (\textit{ypy}) e dos
 seus comportamentos. Todo \textit{guahu} ``tem história'', é o que se
-costuma dizer entre os Kaiowá --- e quase tudo que existe fala por meio de
-seu \textit{guahu}, ao cantar como viveu no tempo da origem: há o canto da
-flauta \textit{mimby}; do chocalho \textit{mbaraka}; os \textit{guahu} de
-aves, como as araras \textit{gua'a} e \textit{kaninde}; os \textit{guahu} dos
+costuma dizer entre os Kaiowá --- e quase tudo que existe fala por meio
+de
+seu \textit{guahu}, ao cantar como viveu no tempo da origem: há o canto
+da
+flauta \textit{mimby}; do chocalho \textit{mbaraka}; os \textit{guahu}
+de
+aves, como as araras \textit{gua'a} e \textit{kaninde}; os
+\textit{guahu} dos
 peixes e os dos animais da mata, \textit{mymba ka'aguy}; e até os cantos
 \textit{guahu} de seres invisíveis, que os Kaiowá chamam de \textit{Pa'i
 Re'i}.}
 
 Existem momentos específicos em que os \textit{guahu} são cantados: na
-festa do milho branco --- o \textit{avati kyry} --- ou na festa da iniciação
-dos meninos --- o \textit{kunumi pepy} ---, um \textit{guahu jary}, mestre dos
+festa do milho branco --- o \textit{avati kyry} --- ou na festa da
+iniciação
+dos meninos --- o \textit{kunumi pepy} ---, um \textit{guahu jary},
+mestre dos
 cantos \textit{guahu}, é quem canta, seguindo uma sequência determinada
 pelo cantador, sem repetições. Mas os \textit{guahu} também podem ser
 dançados em outros momentos de reunião e diversão, sem seguir uma
 sequência específica.
 
-\textls[-15]{Quando é feita em festas ou rituais como esses, a sequência dos cantos
-\textit{guahu} costuma ser iniciada à noite, geralmente com o \textit{guahu}
+\textls[-15]{Quando é feita em festas ou rituais como esses, a sequência
+ dos cantos
+\textit{guahu} costuma ser iniciada à noite, geralmente com o
+\textit{guahu}
 em que Pa'i Kuara, o Sol, conta a sua história. Ao longo da noite, o
-cantador pode dançar os \textit{guahu pyharegua} ou ``\textit{guahu} noturnos''.
-Mas existem \textit{guahu} que só podem ser cantados durante o dia: são os
-\textit{guahu arakuegua} ou ``\textit{guahu} diurnos'', caso da maior parte dos
+cantador pode dançar os \textit{guahu pyharegua} ou ``\textit{guahu}
+noturnos''.
+Mas existem \textit{guahu} que só podem ser cantados durante o dia: são
+os
+\textit{guahu arakuegua} ou ``\textit{guahu} diurnos'', caso da maior
+parte dos
 cantos selecionados por Ataná para esta edição. Os \textit{guahu} também
 podem ser classificados como \textit{guahu yta}, \textit{guahungai} e
-\textit{guahu ete}. O modo de combinar os diferentes tipos de \textit{guahu}
+\textit{guahu ete}. O modo de combinar os diferentes tipos de
+\textit{guahu}
 varia de acordo com a ocasião e a inspiração do cantador. Varia ainda a
 forma como se dança: além de cantos e histórias do princípio, os
 \textit{guahu} também são danças, feitas sempre em roda.}\looseness=-1
@@ -97,19 +120,24 @@ forma como se dança: além de cantos e histórias do princípio, os
 Nas festas mais importantes, os cantadores iniciam a dança em torno de
 um balde de \textit{kaguῖ}, bebida fermentada de milho, sem dar as mãos,
 batendo os pés no chão e marchando em sentido anti-horário. Nesses
-momentos iniciais o \textit{guahu jary} carrega um grande arco nas mãos, o 
+momentos iniciais, o \textit{guahu jary} carrega um grande arco nas
+mãos, o
 \textit{guyrapa guasu}, e, se a mestra de \textit{guahu} for uma
-mulher, em lugar do arco, ela deve portar uma haste de \textit{takuare'ẽ},
+mulher, em lugar do arco, ela deve portar uma haste de
+\textit{takuare'ẽ},
 variedade tradicional de cana-de-açúcar. Depois de feitos dois ou três
 \textit{guahu}, a sequência passa a ser cantada e dançada de mãos dadas,
 sempre em roda.
 
-\textls[-20]{As melodias dos \textit{guahu} de Atanásio Teixeira são cantadas em
-registro grave, variando aproximadamente entre a nota Lá\,\textsc{2} e o Fá\,\textsc{3}.
+\textls[-20]{As melodias dos \textit{guahu} de Atanásio Teixeira são
+cantadas em
+registro grave, variando aproximadamente entre a nota Lá\,\textsc{2} e o
+ Fá\,\textsc{3}.
 Outros cantadores podem empregar diferentes alturas e timbres, que
 permitem identificar a pessoa e a região em que ela aprendeu seus
 \textit{guahu}. O canto é acompanhado apenas pelas batidas dos pés dos
-dançarinos e os versos são repetidos pelo \textit{guahu jary} duas ou três
+dançarinos e os versos são repetidos pelo \textit{guahu jary} duas ou
+três
 vezes, ou mais, a depender da animação do grupo.}\looseness=-1
 
 \section{Quem é Ava Ñomoandyja?}
@@ -118,47 +146,62 @@ Atanásio Teixeira ou Ava Ñomoandyja é um dos mais importantes
 \textit{ñanderu} do povo Kaiowá em atividade. Nascido em 1922, Ataná é
 chamado de \textit{ñamoῖ}, avô, por lideranças e rezadores de diferentes
 comunidades kaiowá, pelos quais é reconhecido como mestre. É um dos
-precursores dos \textit{jeroky guasu}, as ``grandes danças'' dos anos 1980, e do
+precursores dos \textit{jeroky guasu}, as ``grandes danças'' dos anos
+1980, e do
 movimento histórico pela recuperação dos territórios kaiowá e guarani em
-Mato Grosso do Sul, a \textit{Aty Guasu}, ``grande reunião'', além de ser 
+Mato Grosso do Sul, a \textit{Aty Guasu}, ``grande reunião'', além de
+ser
 reconhecido como um grande xamã também pelos Guarani.
 
-\textls[-10]{\textit{Ñanderu}, ``nosso pai'', e \textit{ñandesy}, ``nossa mãe'', são
+\textls[-10]{\textit{Ñanderu}, ``nosso pai'', e \textit{ñandesy},
+``nossa mãe'', são
 termos utilizados para se referir aos homens e mulheres do povo Kaiowá
 que detêm conhecimentos xamânicos, evocando as denominações dadas aos
-casais de prestígio das extensas famílias kaiowá. São também usadas para se
+casais de prestígio das extensas famílias kaiowá. São também usadas para
+se
 referir às divindades nos discursos xamânicos e nos diálogos com elas,
 por meio dos cantos-rezas. A divindade máxima dos Kaiowá, criador desta
 terra, é Ñanderu Vusu, nome que pode ser traduzido como ``nosso grande
 pai''. Os xamãs também costumam ser chamados, em guarani, de
 \textit{oporaheiva}, ``os que cantam'', \textit{ojerokyva}, ``os que
-dançam'', \textit{oñembo'eva}, ``os que rezam'' e, no português indígena,
+dançam'', \textit{oñembo'eva}, ``os que rezam'' e, no português
+indígena,
 de \textit{rezadores} e \textit{caciques}. Outro epíteto aplicado aos
-\textit{ñanderu} e \textit{ñandesy} é \textit{jekoha}, ``pilar'' ou ``esteio'',
+\textit{ñanderu} e \textit{ñandesy} é \textit{jekoha}, ``pilar'' ou
+``esteio'',
 que aponta o elemento fundamental que são na garantia da solidariedade e
 da confiança coletiva, como se fossem o ``pilar da casa''.}\looseness=-1
 
-\textls[-15]{O prestígio de Atanásio está, entre outros motivos, ligado ao fato de
+\textls[-15]{O prestígio de Atanásio está, entre outros motivos, ligado
+ao fato de
 dominar as mais variadas técnicas ligadas ao xamanismo kaiowá: os
 \textit{ñembo'e}, fórmulas verbais de proteção pessoal ou coletiva; os
-\textit{mborahei} e \textit{guahu}, cantos coletivos ligados aos rituais; os
-diversos tipos de gestos conhecidos como \textit{jehovasa} --- que podem ser
+\textit{mborahei} e \textit{guahu}, cantos coletivos ligados aos
+rituais; os
+diversos tipos de gestos conhecidos como \textit{jehovasa} --- que podem
+ ser
 utilizados para influenciar as condições climáticas, desviando
 tempestades, por exemplo; para curar doenças físicas e espirituais; para
 garantir a sanidade das lavouras e colheitas etc.}\looseness=-1
 
-\textls[-2]{Ainda na apresentação deste livro, no texto intitulado ``Teko Katu Maraneỹ'', Ataná nos conta
+\textls[-2]{Ainda na apresentação deste livro, no texto intitulado
+``Teko Katu Maraneỹ'', Ataná nos conta
 parte de sua história de vida, lembrando de seu tempo de criança, quando
 viveu com seus pais em Guaviraty, na região do atual município de Aral
-Moreira (\textsc{ms}). Atualmente vive na Terra Indígena Limão Verde, no
-município de Amambai (\textsc{ms}), e passou por vários outros territórios de ocupação tradicional ao longo de sua vida, chamados pelos
-Kaiowá e Guarani de \textit{tekoha}: como Cerrito, Porto Lindo (Jakarey),
+Moreira (\textsc{ms}). Atualmente, vive na Terra Indígena Limão Verde,
+no
+município de Amambai (\textsc{ms}), e passou por vários outros
+territórios de ocupação tradicional ao longo de sua vida, chamados pelos
+Kaiowá e Guarani de \textit{tekoha}: como Cerrito, Porto Lindo
+(Jakarey),
 Jaguapire, Guasuty, Taquapery, Ñanderu Marangatu, Pyelito Kue. Em Limão
 Verde, ele é hoje cuidado por uma de suas filhas, que também é
 \textit{oporaheiva}, ``cantadora'', e sua aprendiz.}\looseness=-1
 
-\textls[-20]{Prestes a completar cem anos, Ava Ñomoandyja viveu o ``esparramo''
-(\textit{sarambi}) das comunidades kaiowá e guarani e a devastação de seu
+\textls[-20]{Prestes a completar cem anos, Ava Ñomoandyja viveu o
+``esparramo''
+(\textit{sarambi}) das comunidades kaiowá e guarani e a devastação de
+seu
 território em Mato Grosso do Sul. E viu um mundo de abundância e de
 reciprocidade, entre os grupos de famílias de seu povo, praticamente
 desaparecer. Por isso, ainda hoje, ele é um dos protagonistas da luta
